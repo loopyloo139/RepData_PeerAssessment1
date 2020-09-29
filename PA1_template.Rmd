@@ -2,7 +2,9 @@
 title: "Project 1 week 2"
 author: "Gary"
 date: "28/09/2020"
-output: html_document
+output: 
+  md_document:
+          variant: markdown_github
 ---
 ## Set directory and import libraries
 ```{r}
